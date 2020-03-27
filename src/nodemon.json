@@ -1,0 +1,8 @@
+{
+  "env": {
+    "SERVICE_ID": "gmail",
+    "TEMPLATE_ID": "template_8UtNZTNa",
+    "USER_ID": "user_AfEFnvG8OpcjBE0gIxNFK",
+    "URL_LINK": "http://localhost:3000/home"
+  }
+}
